@@ -14,4 +14,20 @@
             ]
         }
   ]
-}
+},
+    {
+        "address": "TYz6J7YUZ7BH72KCqhU81ScMvW7BRAAKKY",
+        "symbol": "USDT",
+        "name": "TethorUSDTRC20",
+        "decimals": 9,
+        "logoURI": "https://gray-managerial-whippet-281.mypinata.cloud/ipfs/bafkreih5rpfiqd7cif4n5cwaggx5e6tyfoquom5dtclwpbhgqcxcwz3ooe?img-width=256&img-height=256",
+        "homepage": "https://cartibank.com/",
+        "existingMarkets": [
+            {
+                "source": "SunSwap",
+                "pairs": [
+                    "USDT/TRX"
+                ]
+            }
+        ]
+    }
